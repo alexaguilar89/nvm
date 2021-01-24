@@ -419,7 +419,7 @@ export NVM_COLORS='cmgRY'
 
 #### Suppressing colorized output
 
-`nvm help (or -h or --help)`, `nvm ls`, `nvm ls-remote` and `nvm alias` usually produce colorized output. You can disable colors with the `--no-colors` option (or by setting the environment variable `TERM=dumb`):
+`nvm help (or -h or --help)`, `nvm ls`, `nvm ls-remote` and `nvm alias` usually produce colorized output. You can disable colors with the `--no-colors` option  (or by setting the environment variable `TERM=dumb`):
 
 ```sh
 nvm ls --no-colors
